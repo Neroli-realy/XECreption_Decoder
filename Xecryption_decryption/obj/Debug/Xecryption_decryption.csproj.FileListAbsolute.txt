@@ -1,0 +1,9 @@
+F:\Programming\My Projects\Xecryption_decryption\Xecryption_decryption\bin\Debug\Xecryption_decryption.exe.config
+F:\Programming\My Projects\Xecryption_decryption\Xecryption_decryption\bin\Debug\Xecryption_decryption.exe
+F:\Programming\My Projects\Xecryption_decryption\Xecryption_decryption\bin\Debug\Xecryption_decryption.pdb
+F:\Programming\My Projects\Xecryption_decryption\Xecryption_decryption\obj\Debug\Xecryption_decryption.csprojResolveAssemblyReference.cache
+F:\Programming\My Projects\Xecryption_decryption\Xecryption_decryption\obj\Debug\Xecryption_decryption.Form1.resources
+F:\Programming\My Projects\Xecryption_decryption\Xecryption_decryption\obj\Debug\Xecryption_decryption.Properties.Resources.resources
+F:\Programming\My Projects\Xecryption_decryption\Xecryption_decryption\obj\Debug\Xecryption_decryption.csproj.GenerateResource.Cache
+F:\Programming\My Projects\Xecryption_decryption\Xecryption_decryption\obj\Debug\Xecryption_decryption.exe
+F:\Programming\My Projects\Xecryption_decryption\Xecryption_decryption\obj\Debug\Xecryption_decryption.pdb
