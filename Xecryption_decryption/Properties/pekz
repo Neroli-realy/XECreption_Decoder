@@ -1,3 +1,0 @@
-strings pekz.pcap | grep -i flag
-
-FLAG{0h_dump_is_ez_recover_is_eazi3r!!}
